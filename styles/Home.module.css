@@ -1,0 +1,16 @@
+.mainWrapper {
+  width: 600px;
+  padding: 0 30px;
+}
+
+.title a {
+  color: deeppink;
+  text-decoration: none;
+}
+
+.homeSubtitle {
+  font-weight: normal;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
